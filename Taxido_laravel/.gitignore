@@ -2,6 +2,8 @@
 /node_modules
 /public/build
 /public/hot
+/public/db/*.sql
+/public/db.sql
 /public/storage
 /storage/*.key
 /storage/app/
@@ -36,3 +38,4 @@ storage/logs/laravel.log
 public/admin/assets/firebase.json
 storage/dotenv-editor
 storage/logs
+

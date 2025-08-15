@@ -1,7 +1,0 @@
-export const riderWallet = 'driverWallet/history'
-export const payment = 'payment-methods'
-export const plan_purchase = 'plan-purchase'
-export const verify_payment = 'ride/verify-payment'
-export const withdraw = 'driver/withdraw-request'
-export const withdrawRequest = 'driverWallet/withdraw-request'
-export const topUpWallet = 'driver/top-up'

@@ -1,1 +1,0 @@
-export const zone = "zone-by-point"
