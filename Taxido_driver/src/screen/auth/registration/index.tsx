@@ -1,6 +1,0 @@
-export * from './bankDetails'
-export * from './createAccount'
-export * from './documentVerify'
-export * from './vehicleRegistration'
-export * from './uploadDocument'
-export * from './fleetDetails'
